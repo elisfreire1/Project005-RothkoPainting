@@ -24,6 +24,7 @@
     margin: 20px auto;
     box-shadow: 0 0 3px 3px #efb762; /* To increase the area and soften the edges*/
     border-radius: 9px;
+    transform: rotate(-0.6deg);
 }
 
 .two{
@@ -34,6 +35,7 @@
     margin: 0 auto 20px;
     box-shadow: 0 0 3px 3px #8f0401; /* To increase the area and soften the edges*/
     border-radius: 8px 10px;
+    transform: rotate(0.4deg);
 }
 
 .three {
@@ -44,6 +46,7 @@
     filter: blur(2px);
     box-shadow: 0 0 5px 5px #b20403; /* To increase the area and soften the edges*/
     border-radius: 30px 25px 60px 12px;
+    transform: rotate(-0.2deg);
 }
 
 .one, .two{
