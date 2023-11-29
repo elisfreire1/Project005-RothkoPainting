@@ -52,3 +52,25 @@
 .one, .two{
     filter: blur(1px);
 }
+/* Extra*/
+.extra-project{
+    margin: 0 auto;
+    text-align: center;
+}
+
+hr{
+    border: 2px solid gray;
+    padding: 3px;
+    background-color: gray;
+    box-shadow: 1px 1px 3px black;
+    border-radius: 2px;
+    margin: 25px 25px;
+}
+
+img, h1{
+    padding-bottom: 35px;
+}
+
+.title-project{
+    text-align: center;
+}
